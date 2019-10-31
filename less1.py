@@ -12,7 +12,7 @@ def decode_file(s):
             if s[i+1].isalnum and s[i] < len(s):
                 cnum += s[i]
             else:
-                ns[-1::] +=
+                pass
 
     with open("data2.txt", "w") as ouf:
         ouf.write(str('new some text'))
