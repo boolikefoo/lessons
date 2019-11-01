@@ -22,4 +22,5 @@ for i in s:
             pass
         
    
-print(ns)        
+print(ns)
+#n
