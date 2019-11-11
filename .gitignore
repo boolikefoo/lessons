@@ -7,4 +7,5 @@ dataset_3378_2.txt
 dataset_3378_3.txt
 dataset_3380_5.txt
 bat.txt
-
+*.txt
+bat.py
